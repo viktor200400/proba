@@ -1,0 +1,205 @@
+[
+    {
+        "ID": 1,
+        "Kod": "001",
+        "Nev": "Felhasználó változás",
+        "InformaciosEgysegIDk": "1,2",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 2,
+        "Kod": "003",
+        "Nev": "Bejutást elősegítő információk",
+        "InformaciosEgysegIDk": "3,4",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 3,
+        "Kod": "027",
+        "Nev": "Sérült mérőhely",
+        "InformaciosEgysegIDk": "5",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 4,
+        "Kod": "028",
+        "Nev": "Plomba hiány",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 5,
+        "Kod": "037",
+        "Nev": "Feszmentes mérő",
+        "EredmenyStatuszID": 5,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": -1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 6,
+        "Kod": "038",
+        "Nev": "Leszerelt mérő",
+        "EredmenyStatuszID": 4,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": -1,
+        "Gyariszam": -1
+    },
+    {
+        "ID": 7,
+        "Kod": "032",
+        "Nev": "Mérőcsere",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 1
+    },
+    {
+        "ID": 8,
+        "Kod": "002",
+        "Nev": "FH Cím eltér",
+        "InformaciosEgysegIDk": "6,7,8,9",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 9,
+        "Kod": "031",
+        "Nev": "Szerződésszegés",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 10,
+        "Kod": "099",
+        "Nev": "Szabad leolvasói megjegyzés",
+        "InformaciosEgysegIDk": "10",
+        "Meroallas": 0,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 11,
+        "Kod": "091",
+        "Nev": "Nem engedte a fényképezést",
+        "EredmenyStatuszID": 2,
+        "Meroallas": 1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 12,
+        "Kod": "039",
+        "Nev": "Bontásra ítélt, hatóságilag lezárt",
+        "InformaciosEgysegIDk": "11",
+        "EredmenyStatuszID": 5,
+        "FenykepTipusIDk": "4",
+        "Meroallas": 0,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 13,
+        "Kod": "060",
+        "Nev": "Szerelői leolvasást igénylő mérő",
+        "EredmenyStatuszID": 5,
+        "FenykepTipusIDk": "4",
+        "Meroallas": 0,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 14,
+        "Kod": "100",
+        "Nev": "Leolvasás rendben",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 15,
+        "Kod": "081",
+        "Nev": "Felhasználó\r\nelhalálozott\r\n",
+        "InformaciosEgysegIDk": "11",
+        "EredmenyStatuszID": 5,
+        "FenykepTipusIDk": "4",
+        "Meroallas": 0,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 16,
+        "Kod": "082",
+        "Nev": "Cég megszűnt jogilag",
+        "InformaciosEgysegIDk": "11",
+        "EredmenyStatuszID": 5,
+        "FenykepTipusIDk": "4",
+        "Meroallas": 0,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 17,
+        "Kod": "083",
+        "Nev": "Nem létező\r\nfelhasználási helyszín\r\n",
+        "EredmenyStatuszID": 4,
+        "FenykepTipusIDk": "4",
+        "Meroallas": 0,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 18,
+        "Kod": "084",
+        "Nev": "Felhasználó megtagadja a leolvasást – aláírja",
+        "EredmenyStatuszID": 4,
+        "FenykepTipusIDk": "4",
+        "Meroallas": -1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 19,
+        "Kod": "085",
+        "Nev": "Felhasználó megtagadja a leolvasást – nem írja alá",
+        "EredmenyStatuszID": 5,
+        "FenykepTipusIDk": "4",
+        "Meroallas": -1,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 20,
+        "Kod": "086",
+        "Nev": "Elhagyott ingatlan",
+        "EredmenyStatuszID": 5,
+        "FenykepTipusIDk": "4",
+        "Meroallas": 0,
+        "Gyariszam": 0
+    },
+    {
+        "ID": 21,
+        "Kod": "088",
+        "Nev": "Leolvasási kísérlet",
+        "EredmenyStatuszID": 3,
+        "FenykepTipusIDk": "3",
+        "Meroallas": -1,
+        "Gyariszam": -1
+    },
+    {
+        "ID": 22,
+        "Kod": "055",
+        "Nev": "Nagy mértékű felhasználás",
+        "EredmenyStatuszID": 2,
+        "FenykepTipusIDk": "1,2",
+        "Meroallas": 1,
+        "Gyariszam": 0
+    }
+]
