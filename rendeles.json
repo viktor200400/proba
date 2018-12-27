@@ -40,7 +40,8 @@
         "TobbszorosenKiosztott": false,
         "PdaID": 1,
         "PdaNev": "PDA név",
-        "SzemelyID": 1
+        "SzemelyID": 1,
+        EredmenyStatuszID: 2
     },
     {
         "ID": 2,
