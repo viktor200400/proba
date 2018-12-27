@@ -2,10 +2,10 @@
     {
         "ID": 1,
         "FeladatID": 1001,
-        "FeladatNev": "FEL1",
+        "FeladatNev": "FEL1 asd",
         "FeladatTipusID": 1,
         "FeladatTipusNev": "FELT1",
-        "KezdesDatum": "2019-01-01T00:00:00",
+        "KezdesDatum": "2018-12-27T00:00:00",
         "ZarasDatum": "2019-01-20T00:00:00",
         "LeolvBizID": "LBIZ0001",
         "FelhasznalasihelyID": "Felhaszid1",
