@@ -46,7 +46,7 @@
     {
         "ID": 2,
         "FeladatID": 1002,
-        "FeladatNev": "Fel2",
+        "FeladatNev": "Menő feladat 2",
         "FeladatTipusID": 1,
         "FeladatTipusNev": "felt1",
         "KezdesDatum": "2018-12-26T00:00:00",
@@ -85,5 +85,6 @@
         "PdaID": 1,
         "PdaNev": "PDA 2",
         "SzemelyID": 2
+        "EredmenyStatuszID": 1
     }
 ]
